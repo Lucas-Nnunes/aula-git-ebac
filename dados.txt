@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Lucas
+-Profissão: Engenheiro de Qualidade de Software
+-Cidade: Cerrito Rs
+-O que faz nas horas vaga: Saiu para comer, me exercito, jogo games, leio.
+-Feedback sobre o curso Qualidade de Software: Excelente até aqui.
+-Feedback sobre a plataforma de estudo da EBAC: ótima, plataforma bem fluída.
+
+Obrigado!!!
+
+
